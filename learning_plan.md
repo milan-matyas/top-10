@@ -3,7 +3,7 @@ Goal: Reach the top 10% of Python programmers worldwide in the next few years.
 
 ---
 
-## Phase 1: Foundations (0–3 months)
+## Phase 1: Foundations (0–3 months) ✅ Completed (PCEP Certified)
 - Variables, data types, input/output
 - Control flow: if/elif/else
 - Loops: for, while
@@ -12,11 +12,11 @@ Goal: Reach the top 10% of Python programmers worldwide in the next few years.
 - Error handling with try/except
 - Writing clean code (PEP-8)
 
-**Expected outcome:** Ability to write small scripts solving real-world problems with proper style and error handling.
+**Outcome:** Achieved – confirmed by PCEP certification.
 
 ---
 
-## Phase 2: Intermediate Programming (3–6 months)
+## Phase 2: Intermediate Programming (3–6 months) 🚧 In Progress (PCAP)
 - File handling (read/write, CSV, JSON)
 - List/dict comprehensions
 - Modules and packages
@@ -24,7 +24,8 @@ Goal: Reach the top 10% of Python programmers worldwide in the next few years.
 - Basic testing with `unittest` or `pytest`
 - Introduction to object-oriented programming (OOP)
 
-**Expected outcome:** Ability to build medium-sized projects and organize code into reusable components.
+**Expected outcome:** Ability to build medium-sized projects and organize code into reusable components.  
+**Current status:** Studying and working towards PCAP certification.
 
 ---
 
